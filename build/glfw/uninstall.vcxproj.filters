@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\larsl\Desktop\Skolefolder\PROG2002\rb-physics-engine\build\CMakeFiles\f6250f7b1713212d9b9243b894be312f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\larsl\Desktop\Skolefolder\PROG2002\rb-physics-engine\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\larsl\Desktop\Skolefolder\PROG2002\rb-physics-engine\build\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F30DED5F-2020-318F-A22C-59352D949A8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
